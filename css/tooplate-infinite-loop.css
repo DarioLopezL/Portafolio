@@ -530,13 +530,24 @@ figure.effect-honey:hover h2 i {
 
 /* Contact */
 
-#contact {
+#contact2 {
   color: white;
   background-color: #001828;
   background-image: url(../img/infinite-loop-03.jpg);
   background-position: center;
   background-repeat: no-repeat;
   min-height: 980px;
+  position: relative;
+  padding-bottom: 50px;
+  padding-top: 100px;
+}
+
+#contact {
+  color: white;
+  background-color: #001828;
+  background-position: center;
+  background-repeat: no-repeat;
+    
   position: relative;
   padding-bottom: 50px;
   padding-top: 100px;
